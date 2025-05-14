@@ -32,18 +32,18 @@ export default function CommunityFeed() {
             image: require('@/assets/images/international.jpg'),
             title: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet justo ac ipsum molestie aliquam. Nunc sit amet justo a magna malesuada volutpat. Proin egestas purus eu urna euismod gravida. ',
             description: 'Sed pretium laoreet cursus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras id felis at enim cursus elementum. Phasellus ut tincidunt ex. Duis dapibus suscipit neque vitae auctor.',
-            likeCount: 324,
-            commentCount: 12,
+            likeCount: 203213,
+            commentCount: 1844,
         },
         {
             id: 2,
             source: 'Reinbet cup',
             time: '5 days ago • 8 pm',
             image: require('@/assets/images/cs.png'),
-            title: 'New Gaming Consoles Coming in 2025',
+            title: 'CS-2 Tournament',
             description: 'Several gaming console manufacturers are preparing new consoles to release next year. The next-gen consoles could redefine the gaming experience.',
-            likeCount: 280,
-            commentCount: 18,
+            likeCount: 5000,
+            commentCount: 11,
         },
     ];
 

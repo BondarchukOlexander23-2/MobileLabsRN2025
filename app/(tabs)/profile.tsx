@@ -9,7 +9,7 @@ export default function Profile() {
     return (
         <View style={[styles.container, { backgroundColor: theme.colors.background }]}>
             <View style={styles.avatarContainer}>
-                <Image source={require('../../assets/images/motorsport.png')} style={styles.avatar} />
+                <Image source={require('../../assets/images/motosport.png')} style={styles.avatar} />
                 <View style={[styles.statusIndicator, { backgroundColor: theme.colors.accent }]} />
             </View>
 

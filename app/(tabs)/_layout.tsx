@@ -28,31 +28,31 @@ export default function TabLayout() {
                 },
             }}>
             <Tabs.Screen
-                name=""
+                name="store"
                 options={{
                     tabBarIcon: ({ color }) => <Icon size={28} name="shopping-bag" color={color} />,
                 }}
             />
             <Tabs.Screen
-                name=""
+                name="community"
                 options={{
                     tabBarIcon: ({ color }) => <Icon size={28} name="person" color={color} />,
                 }}
             />
             <Tabs.Screen
-                name=""
+                name="chat"
                 options={{
                     tabBarIcon: ({ color }) => <Feather size={28} name="message-circle" color={color} />,
                 }}
             />
             <Tabs.Screen
-                name=""
+                name="safety"
                 options={{
                     tabBarIcon: ({ color }) => <Icon size={28} name="shield" color={color} />,
                 }}
             />
             <Tabs.Screen
-                name=""
+                name="profile"
                 options={{
                     tabBarIcon: ({ color }) => <Icon size={28} name="person" color={color} />,
                 }}
