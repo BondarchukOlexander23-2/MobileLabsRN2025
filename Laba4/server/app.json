@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "5a5b3fef-2c6c-4d31-9425-2cca28ee61e5"
+      }
+    },
+    "android": {
+      "package": "com.ipz232_boo.server"
+    }
+  }
+}
